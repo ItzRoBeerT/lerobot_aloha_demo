@@ -1,4 +1,4 @@
-# # Simulación de Robot en el Entorno Aloha con LeRobot
+# Simulación de Robot en el Entorno Aloha con LeRobot
 
 Este repositorio contiene un script de Python que demuestra cómo simular un robot en el entorno Aloha (`gym_aloha/AlohaTransferCube-v0`) utilizando el framework [LeRobot](https://github.com/huggingface/lerobot).
 
